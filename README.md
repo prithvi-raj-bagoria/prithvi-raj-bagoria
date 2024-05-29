@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prithvi-github
-- 👀 I’m interested in ...Programming(Python,C#,Javascript) and Web Development(HTML,CSS,Javascript)
+- 👋 Hi, I’m @Prithvi-Raj-IITD
+- 👀 I’m interested in ...Programming(Python,C/C++,Javascript),Machine Learning and Web Development
 - 🌱 I’m currently learning ...Web Development(HTML,CSS,Javascript)
 - 💞️ I’m looking to collaborate on ...Web Dev projects 
 - 📫 How to reach me ...email: prithvirajiitjee@gmail.com
