@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prithvi-Raj
-- 👀 I’m interested in ...Programming(Python,C/C++,Javascript),Machine Learning and Web Development
+- 👀 I’m interested in ...Competetive Programming , Programming(Python,C/C++,Javascript),Machine Learning and Web Development
 - 🌱 I’m currently learning ...Web Development(HTML,CSS,Javascript)
 - 💞️ I’m looking to collaborate on ...Web Dev projects 
 - 📫 How to reach me ...email: prithvirajiitjee@gmail.com
