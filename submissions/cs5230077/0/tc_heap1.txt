@@ -1,0 +1,18 @@
+Insert 10
+Insert 20
+Insert 30
+Insert 100
+Insert 5
+Insert 25
+Extract
+Extract
+Top
+Insert 70
+Insert 4
+Extract
+Extract
+Insert 1
+Top
+Insert -100
+Top
+Print

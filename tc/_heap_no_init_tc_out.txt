@@ -1,0 +1,27 @@
+Heap initialized
+518 inserted
+518 extracted
+-45 inserted
+926 inserted
+-45 extracted
+412 inserted
+530 inserted
+Top: 412
+690 inserted
+Top: 412
+859 inserted
+412 extracted
+Top: 530
+Top: 530
+25 inserted
+25 extracted
+-773 inserted
+242 inserted
+Printing heap:
+-773
+242
+530
+690
+859
+926
+

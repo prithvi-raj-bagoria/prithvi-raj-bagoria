@@ -1,0 +1,9 @@
+3
+Add 1 8 1
+Get
+Add 2 7 2
+Get
+Add 3 4 4
+Get
+Add 4 1 5
+Get

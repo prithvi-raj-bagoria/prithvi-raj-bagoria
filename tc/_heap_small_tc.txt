@@ -1,0 +1,12 @@
+IntHeapObject
+Init 518
+Init -45
+Init 926
+Init 412
+Init 530
+Init 690
+Init 859
+Init 25
+Init -773
+Init 242
+Print 

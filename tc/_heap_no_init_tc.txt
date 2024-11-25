@@ -1,0 +1,20 @@
+IntHeapObject
+Insert 518
+Extract 
+Insert -45
+Insert 926
+Extract 
+Insert 412
+Insert 530
+Top 
+Insert 690
+Top 
+Insert 859
+Extract 
+Top 
+Top 
+Insert 25
+Extract 
+Insert -773
+Insert 242
+Print 

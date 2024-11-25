@@ -1,0 +1,13 @@
+Heap initialized
+Printing heap:
+-773
+-45
+25
+242
+412
+518
+530
+690
+859
+926
+

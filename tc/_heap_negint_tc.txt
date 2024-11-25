@@ -1,0 +1,1779 @@
+NegIntHeapObject
+Init 592721912
+Init 1514023
+Init 480897783
+Init 605036567
+Init 772206731
+Init 950221304
+Init 75419114
+Init -761678104
+Init 302892034
+Init 245053424
+Init -477375054
+Init -72572003
+Init 7667804
+Init -429859027
+Init 546251073
+Init 847714618
+Init 449916068
+Init -292615674
+Init -59131819
+Init 188058876
+Init -224214237
+Init -642311263
+Init 188900037
+Init 393209673
+Init 662637833
+Init 673831701
+Init 678791257
+Init -733965814
+Init -910266507
+Init 171961955
+Init 575268051
+Init 35057442
+Init -772220007
+Init 862509334
+Init -264582431
+Init -880867752
+Init -799448471
+Init 702276167
+Init 300041263
+Init -615366178
+Init -580962033
+Init 672658695
+Init -587829645
+Init -989797733
+Init 134368200
+Init 783122058
+Init -89305994
+Init -53533908
+Init 150723245
+Init -194344269
+Init 124986232
+Init -727219703
+Init 505858604
+Init 455603555
+Init 928787983
+Init 201649690
+Init -946553061
+Init 265675964
+Init 344078172
+Init -681789016
+Init 271348270
+Init 217183640
+Init -257001240
+Init -691135863
+Init 681650235
+Init 762247495
+Init -734324459
+Init -975306983
+Init 25098879
+Init -180853947
+Init 613548306
+Init 303909680
+Init 488510906
+Init -384591004
+Init -828027859
+Init -570283046
+Init -91182648
+Init -84724827
+Init -176084328
+Init -115762870
+Init -737149859
+Init 919641210
+Init 590735625
+Init -452655383
+Init -104482753
+Init -619721201
+Init 418508386
+Init 712695353
+Init -910234806
+Init -930093310
+Init -117824786
+Init -172568359
+Init 792044524
+Init -663296605
+Init 638987346
+Init -483671885
+Init -804563858
+Init 852051889
+Init 609697667
+Init -235033199
+Init 526863400
+Init -243324828
+Init 726372891
+Init 676742836
+Init 772845607
+Init -441633773
+Init 883004177
+Init 268197954
+Init 876590243
+Init 228659852
+Init -479519569
+Init 36897476
+Init -193797192
+Init 3334639
+Init -16254425
+Init 757553730
+Init 194690896
+Init 80080173
+Init 630625340
+Init 19894490
+Init -183414981
+Init 885204900
+Init 364977202
+Init -360319164
+Init 820083462
+Init -991544604
+Init -940785754
+Init 435893846
+Init 126453881
+Init 669167137
+Init -784542259
+Init -44695911
+Init 841833254
+Init -534701491
+Init 229721692
+Init 780861164
+Init -462332133
+Init 279278278
+Init 729087496
+Init -547174488
+Init 856564804
+Init -249683199
+Init 12570438
+Init 878776792
+Init -354883560
+Init 448035094
+Init -759641633
+Init 682470120
+Init -736668536
+Init -850461674
+Init 235721149
+Init -401751209
+Init 248818670
+Init 705682055
+Init -608457162
+Init 858863227
+Init -253688481
+Init -942632875
+Init -376911204
+Init -718479693
+Init 257577762
+Init -6031839
+Init -82767717
+Init 154504133
+Init 890564833
+Init 613743690
+Init -293013524
+Init 869995639
+Init -246004120
+Init -774524014
+Init 565031038
+Init -457702098
+Init 388170495
+Init -95129558
+Init -308845020
+Init -843150423
+Init 598249722
+Init -643302938
+Init -558921218
+Init 491240401
+Init 727236013
+Init -124888126
+Init -286682777
+Init 979677406
+Init 465020357
+Init -496242579
+Init 312470028
+Init 842391037
+Init -100942127
+Init 919369420
+Init 51320772
+Init 520354812
+Init 798094697
+Init 213972792
+Init 984692719
+Init -213021893
+Init -80686635
+Init 475410214
+Init -743663493
+Init -38496925
+Init -446134679
+Init 620707329
+Init 9245500
+Init -966119651
+Init 900634429
+Init -466216891
+Init -745729195
+Init -449846870
+Init 313756763
+Init -284035801
+Init -400283688
+Init 561973253
+Init -775186546
+Init -510271611
+Init -927992647
+Init 209493015
+Init 467660413
+Init 963915596
+Init 65142575
+Init 647915653
+Init 310408450
+Init 487922369
+Init 129331921
+Init -619386617
+Init -524755826
+Init 910998811
+Init 724571100
+Init -431628661
+Init 893904396
+Init 596759266
+Init -386667024
+Init 330069799
+Init 698726007
+Init -187500617
+Init 878168070
+Init -815902436
+Init -786213192
+Init -864617106
+Init 336273326
+Init -398749424
+Init 59069707
+Init -759355657
+Init -259651145
+Init -283261351
+Init 818822035
+Init 562359923
+Init -778395353
+Init -601131394
+Init 961178821
+Init 323193449
+Init -660128282
+Init -336935351
+Init 620300628
+Init 967574935
+Init -89232412
+Init -769609980
+Init -855850276
+Init -201578000
+Init -15120458
+Init -924544953
+Init -316660548
+Init -59297306
+Init -271304382
+Init 994695846
+Top 
+Extract 
+Insert 70993606
+Top 
+Top 
+Insert -678998668
+Insert -796464809
+Top 
+Extract 
+Top 
+Insert -670049756
+Insert 323547423
+Insert -198949287
+Insert 549011764
+Extract 
+Extract 
+Insert 436740266
+Insert 268993923
+Insert 976412794
+Top 
+Insert -350566822
+Top 
+Top 
+Insert 27213960
+Insert -196002366
+Insert -662306545
+Insert -116843879
+Insert 353236377
+Insert -223407958
+Top 
+Extract 
+Insert 914247473
+Insert 662604888
+Extract 
+Top 
+Insert -366991678
+Insert -850304788
+Insert 772426956
+Insert -944366190
+Insert 614199548
+Top 
+Top 
+Insert -273193360
+Insert -647441025
+Top 
+Insert -838247304
+Top 
+Extract 
+Insert 781228519
+Extract 
+Top 
+Extract 
+Insert 135781453
+Insert 372020928
+Top 
+Extract 
+Extract 
+Insert -542907269
+Extract 
+Insert -453196780
+Insert -493234451
+Insert 740382104
+Insert 86152672
+Insert 670825318
+Extract 
+Top 
+Insert -531232026
+Insert 286848572
+Extract 
+Insert -873511727
+Insert 778163273
+Insert -591440354
+Extract 
+Insert 359933885
+Insert 653689096
+Extract 
+Insert -977253876
+Extract 
+Insert -507654878
+Insert -619625334
+Insert -868565457
+Extract 
+Top 
+Top 
+Extract 
+Insert 378027115
+Insert -568271367
+Insert 133643076
+Insert 641713434
+Insert -906022387
+Extract 
+Extract 
+Extract 
+Insert 31348516
+Insert 513468173
+Extract 
+Top 
+Extract 
+Insert -419609808
+Insert -744396241
+Insert -238110848
+Insert 525414066
+Extract 
+Insert -811402082
+Top 
+Insert -159455196
+Insert 838865249
+Top 
+Extract 
+Top 
+Insert 920617915
+Insert -974959166
+Top 
+Insert 112170348
+Insert -327756074
+Insert -45271060
+Top 
+Insert 112988243
+Insert 722306905
+Insert -559786270
+Insert 64607614
+Top 
+Extract 
+Extract 
+Insert 790332557
+Extract 
+Insert 474375366
+Insert -871309599
+Insert 30904023
+Insert -560696766
+Top 
+Insert 226426346
+Top 
+Top 
+Extract 
+Top 
+Extract 
+Insert 678386870
+Top 
+Insert 576721577
+Top 
+Insert 294576567
+Insert -365653742
+Extract 
+Insert -319377139
+Top 
+Insert -836338498
+Top 
+Extract 
+Extract 
+Extract 
+Insert 829708525
+Insert -822486586
+Insert 21434637
+Top 
+Top 
+Insert -822851283
+Insert -323530169
+Extract 
+Extract 
+Insert 280183656
+Insert 793348060
+Extract 
+Top 
+Insert 856322807
+Insert -601761470
+Insert -249882138
+Top 
+Insert 506789494
+Extract 
+Insert 934165554
+Insert -710624829
+Insert 354584528
+Top 
+Insert 555096069
+Insert -193290855
+Insert -691472464
+Insert -172844706
+Extract 
+Top 
+Extract 
+Insert 678952812
+Insert -511127095
+Insert -830654750
+Extract 
+Insert -930221962
+Insert 644145117
+Extract 
+Extract 
+Extract 
+Insert 701846336
+Top 
+Extract 
+Insert 690595352
+Top 
+Extract 
+Insert -553322914
+Top 
+Insert 480858007
+Insert 319209045
+Top 
+Insert 913478192
+Insert 559423959
+Insert -750387893
+Insert -58439258
+Insert 705866936
+Extract 
+Insert -802149952
+Extract 
+Insert 787466851
+Top 
+Top 
+Insert 883899200
+Top 
+Extract 
+Insert 587849625
+Insert 434713998
+Top 
+Insert -548529433
+Insert 754451291
+Top 
+Insert -695804865
+Top 
+Top 
+Insert 441767614
+Extract 
+Insert 651509519
+Insert -477282543
+Top 
+Insert 104602427
+Top 
+Top 
+Insert -403902251
+Top 
+Insert -438195880
+Extract 
+Top 
+Extract 
+Insert 160412454
+Insert -699709156
+Insert 812025576
+Insert -50246224
+Insert -95862541
+Extract 
+Top 
+Insert -831415420
+Top 
+Top 
+Insert -134750540
+Extract 
+Insert 408045737
+Insert 736286892
+Insert -932982032
+Top 
+Insert -310272228
+Top 
+Top 
+Extract 
+Insert -18648069
+Insert 966985733
+Insert 749280685
+Insert -654250240
+Top 
+Top 
+Insert -834876962
+Top 
+Extract 
+Insert 366744237
+Extract 
+Insert 473278841
+Top 
+Insert -987356063
+Top 
+Extract 
+Insert -804696030
+Extract 
+Extract 
+Insert 974886938
+Extract 
+Top 
+Insert 929798528
+Extract 
+Insert -374419715
+Insert 318112044
+Insert 47041528
+Insert -481571557
+Top 
+Extract 
+Insert 75555879
+Insert 633720401
+Insert -588727342
+Insert 66775198
+Insert -542122305
+Extract 
+Extract 
+Insert -976236695
+Top 
+Extract 
+Extract 
+Top 
+Extract 
+Insert 439923694
+Extract 
+Top 
+Extract 
+Insert 338398191
+Extract 
+Top 
+Top 
+Insert 943978670
+Insert 896763713
+Extract 
+Insert -636064416
+Insert 445242516
+Extract 
+Insert 694555678
+Extract 
+Extract 
+Insert 662509012
+Insert -804447707
+Insert -697940736
+Top 
+Insert 713916287
+Insert 330225611
+Insert -862250105
+Extract 
+Insert 173733026
+Top 
+Top 
+Insert 893596928
+Insert -255064141
+Top 
+Extract 
+Top 
+Top 
+Insert -107172103
+Top 
+Insert 203878006
+Extract 
+Top 
+Insert 745328303
+Top 
+Extract 
+Insert -800953605
+Extract 
+Top 
+Insert -377752394
+Extract 
+Extract 
+Insert -392719669
+Insert -760592581
+Extract 
+Insert 5976928
+Top 
+Insert -732892163
+Insert -112002116
+Insert -25305607
+Insert 176402426
+Extract 
+Insert 408511617
+Insert -359425225
+Insert -747315322
+Extract 
+Insert 521723295
+Extract 
+Insert 964332526
+Insert -194579607
+Insert -952361539
+Extract 
+Insert 521194851
+Insert 621468227
+Insert -811231618
+Extract 
+Insert 554965907
+Insert 382826956
+Extract 
+Top 
+Insert 387178227
+Insert -606272121
+Top 
+Insert 436315261
+Top 
+Extract 
+Top 
+Insert -531882040
+Extract 
+Insert 133889443
+Insert -646522921
+Insert 336925618
+Top 
+Insert 902291679
+Insert -27073261
+Extract 
+Insert -485882524
+Insert -622775994
+Top 
+Extract 
+Insert -821272513
+Extract 
+Insert 583968448
+Insert -786759686
+Extract 
+Extract 
+Extract 
+Insert 53479365
+Top 
+Insert -589789445
+Insert -56496245
+Insert 89542253
+Top 
+Insert 946167900
+Insert 194369654
+Extract 
+Extract 
+Extract 
+Insert 150737769
+Top 
+Insert 750487255
+Insert 68717055
+Insert 898861414
+Extract 
+Insert 944788202
+Top 
+Top 
+Insert 7934226
+Top 
+Top 
+Insert 381231099
+Insert -989565625
+Insert 116170186
+Insert 362009508
+Top 
+Extract 
+Insert 706016336
+Insert -2110888
+Top 
+Extract 
+Top 
+Top 
+Insert -819711253
+Extract 
+Extract 
+Extract 
+Top 
+Top 
+Top 
+Top 
+Insert 765034592
+Insert 651307921
+Insert -894232362
+Top 
+Insert -839272348
+Extract 
+Top 
+Insert 849869448
+Top 
+Insert 6827299
+Top 
+Insert -716441939
+Insert 651291713
+Top 
+Extract 
+Extract 
+Extract 
+Insert 17361933
+Insert 322451662
+Insert 636890531
+Top 
+Insert 674255509
+Insert -599049655
+Insert -176601270
+Extract 
+Insert 315726218
+Top 
+Extract 
+Top 
+Extract 
+Insert -304332199
+Insert -897298256
+Extract 
+Top 
+Extract 
+Insert -730740496
+Top 
+Insert 888675210
+Insert -985321736
+Extract 
+Insert -417490703
+Top 
+Insert 175026055
+Extract 
+Extract 
+Insert 42806190
+Top 
+Insert 95135978
+Insert 739233018
+Extract 
+Extract 
+Top 
+Top 
+Insert -645751872
+Top 
+Extract 
+Top 
+Top 
+Insert 8846352
+Insert -501371505
+Extract 
+Top 
+Top 
+Insert -838442138
+Insert -462172537
+Top 
+Extract 
+Top 
+Top 
+Insert -953788380
+Insert 969748208
+Top 
+Insert 541381238
+Top 
+Top 
+Top 
+Insert -918822243
+Top 
+Top 
+Insert 746891302
+Extract 
+Top 
+Insert -647689117
+Insert -61104747
+Insert -883796694
+Top 
+Extract 
+Insert -203990431
+Insert -689392428
+Extract 
+Top 
+Insert 762651876
+Extract 
+Insert -685700554
+Extract 
+Insert -841149735
+Insert -244069259
+Insert 102438797
+Insert -527542881
+Extract 
+Extract 
+Top 
+Top 
+Top 
+Extract 
+Top 
+Extract 
+Extract 
+Insert -236021724
+Top 
+Insert -186151811
+Insert -957459913
+Insert 955732163
+Extract 
+Extract 
+Extract 
+Top 
+Insert 216671368
+Extract 
+Extract 
+Insert 614590608
+Top 
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Top 
+Insert -596452682
+Top 
+Top 
+Insert -515547163
+Insert -248710190
+Top 
+Insert -728966645
+Extract 
+Insert 570463407
+Top 
+Insert 983609481
+Extract 
+Insert 522062871
+Insert 1317511
+Top 
+Insert -641717147
+Insert -564126072
+Insert 83711982
+Insert -919667955
+Insert -267231942
+Insert -543414791
+Insert 198625820
+Insert -270951125
+Insert -82215191
+Insert 720337470
+Top 
+Insert 772328660
+Insert -871128951
+Insert 5253099
+Insert 71067831
+Extract 
+Insert -158706932
+Extract 
+Extract 
+Insert 2459357
+Extract 
+Top 
+Insert 951035808
+Insert 781462523
+Extract 
+Insert -719837224
+Insert -674069278
+Insert 145431830
+Insert -316227335
+Top 
+Insert -459368336
+Insert 289848159
+Top 
+Insert 302564571
+Extract 
+Insert -412688594
+Top 
+Extract 
+Extract 
+Top 
+Extract 
+Extract 
+Insert 945534198
+Top 
+Insert 877801022
+Top 
+Extract 
+Top 
+Top 
+Extract 
+Top 
+Top 
+Extract 
+Top 
+Extract 
+Insert 173508999
+Extract 
+Insert -68461976
+Top 
+Insert -644349936
+Insert -527976363
+Top 
+Insert 824533276
+Insert 890941370
+Insert -922207387
+Top 
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Insert 168338493
+Insert 861013028
+Top 
+Insert 560646166
+Top 
+Top 
+Insert 965268122
+Insert 57786786
+Insert 797906959
+Extract 
+Insert 563115279
+Insert 9386233
+Insert -175467432
+Insert -821796217
+Insert -885112536
+Extract 
+Extract 
+Top 
+Insert 212950200
+Insert -158528353
+Top 
+Extract 
+Insert -226414012
+Extract 
+Top 
+Insert -423109796
+Insert 220504025
+Top 
+Insert -428397741
+Insert -432465640
+Top 
+Top 
+Top 
+Insert 541877701
+Extract 
+Insert -796658522
+Top 
+Insert 372253912
+Top 
+Insert -499899216
+Extract 
+Top 
+Extract 
+Insert -724256838
+Top 
+Extract 
+Extract 
+Extract 
+Insert -33721582
+Extract 
+Insert 976072325
+Insert 87626069
+Insert 38967325
+Extract 
+Insert -460117280
+Top 
+Top 
+Extract 
+Insert 845566268
+Insert -890664998
+Extract 
+Top 
+Insert -702835458
+Insert -934331158
+Extract 
+Top 
+Top 
+Insert -737902833
+Insert 249735328
+Insert -583704017
+Insert -617309862
+Insert -877167405
+Insert -440422355
+Insert -199636789
+Extract 
+Top 
+Insert 404615321
+Insert -336280045
+Top 
+Insert -549414336
+Extract 
+Insert 519071913
+Insert -836640892
+Extract 
+Insert -91148724
+Top 
+Insert 48012715
+Insert -498704869
+Insert -107515772
+Insert 21638552
+Top 
+Insert 496256181
+Insert 465428449
+Extract 
+Extract 
+Extract 
+Extract 
+Insert -988690714
+Insert -812892126
+Top 
+Extract 
+Insert 408717455
+Insert -641586293
+Extract 
+Top 
+Top 
+Extract 
+Top 
+Insert -411870518
+Insert 769153909
+Insert -127897449
+Insert 670504530
+Extract 
+Insert -725083531
+Top 
+Extract 
+Top 
+Top 
+Insert -208482039
+Insert -45835746
+Insert 446165726
+Top 
+Top 
+Insert 83251
+Insert -789693506
+Insert 168820193
+Top 
+Extract 
+Insert -830983613
+Extract 
+Insert 559847813
+Extract 
+Extract 
+Top 
+Top 
+Insert -987821284
+Top 
+Insert 268638285
+Insert -153321104
+Insert -350048850
+Top 
+Top 
+Top 
+Insert -637783000
+Insert -964692995
+Insert 361074684
+Insert -316237217
+Extract 
+Extract 
+Top 
+Insert 720156713
+Insert 913010449
+Insert 354950311
+Insert 36281096
+Extract 
+Top 
+Top 
+Top 
+Insert 900184077
+Top 
+Insert -771383994
+Extract 
+Insert -850342832
+Insert -559882249
+Top 
+Top 
+Insert -55922606
+Top 
+Insert -689900330
+Extract 
+Insert 307769226
+Insert 581020136
+Insert 998376971
+Insert -411527057
+Insert -863602248
+Extract 
+Insert -813969037
+Top 
+Extract 
+Insert -790754454
+Insert 835866944
+Insert -12601218
+Top 
+Insert 118167899
+Insert 616870410
+Extract 
+Top 
+Insert 927435085
+Insert -825852176
+Extract 
+Extract 
+Extract 
+Extract 
+Extract 
+Extract 
+Top 
+Extract 
+Insert -867225929
+Extract 
+Insert -925296855
+Top 
+Extract 
+Insert -802677104
+Insert -282720722
+Insert -73242823
+Insert -870956196
+Insert -735772864
+Top 
+Insert -50331345
+Top 
+Insert 171924574
+Insert -193724987
+Extract 
+Extract 
+Extract 
+Insert -346438589
+Insert 690495371
+Insert 245923397
+Insert -34811641
+Insert -767339053
+Insert 63298348
+Insert 301287074
+Extract 
+Insert -329182448
+Insert -881580692
+Insert -381901622
+Insert 380846280
+Top 
+Insert 667188193
+Insert -768765117
+Insert 351143734
+Top 
+Insert -732677425
+Insert 188450093
+Insert 790017296
+Top 
+Insert -71851869
+Top 
+Insert 793752344
+Extract 
+Insert 367850775
+Top 
+Insert -816964432
+Top 
+Insert -650104822
+Top 
+Extract 
+Extract 
+Insert 811679782
+Insert -107426311
+Top 
+Extract 
+Insert 992156080
+Top 
+Insert -631343485
+Insert -846378393
+Extract 
+Extract 
+Insert -942855812
+Extract 
+Insert -611147969
+Top 
+Insert 951792073
+Extract 
+Insert 239449817
+Insert -657495117
+Extract 
+Insert 873061144
+Top 
+Insert 463364588
+Top 
+Insert 854187123
+Top 
+Extract 
+Extract 
+Top 
+Extract 
+Extract 
+Top 
+Top 
+Insert 270194713
+Insert 560786422
+Extract 
+Insert 10563560
+Extract 
+Extract 
+Insert 995947812
+Insert -617021738
+Extract 
+Insert 491893093
+Extract 
+Insert -148056335
+Insert -465836062
+Insert 748303294
+Top 
+Top 
+Top 
+Top 
+Insert 996439338
+Extract 
+Top 
+Insert -353215994
+Insert -24639328
+Insert -920047798
+Insert -984398959
+Insert -112114930
+Insert -984125482
+Insert -931392073
+Top 
+Insert 411029969
+Insert 972906631
+Insert -454870300
+Extract 
+Top 
+Top 
+Insert -739374704
+Extract 
+Top 
+Top 
+Top 
+Top 
+Insert 902291221
+Top 
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Insert 419057162
+Insert -786629159
+Insert -634291329
+Extract 
+Extract 
+Extract 
+Extract 
+Top 
+Insert 630792171
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Insert 229464130
+Insert 495893565
+Extract 
+Extract 
+Insert -61368701
+Extract 
+Insert 257567303
+Extract 
+Insert -532264865
+Insert 487191666
+Top 
+Extract 
+Insert -95023235
+Extract 
+Top 
+Top 
+Extract 
+Extract 
+Insert -129486509
+Extract 
+Top 
+Insert -250262116
+Top 
+Insert -615315064
+Top 
+Top 
+Insert 682202286
+Extract 
+Extract 
+Extract 
+Insert -722479177
+Insert -958099275
+Insert 614265494
+Top 
+Insert -923203768
+Insert -114966922
+Insert -299763625
+Insert -769753563
+Top 
+Top 
+Insert -526008882
+Top 
+Extract 
+Insert -897820273
+Insert 311625009
+Insert 80598885
+Extract 
+Extract 
+Insert -441386114
+Insert -941104990
+Extract 
+Top 
+Insert 100019126
+Insert -129484076
+Insert 554708735
+Insert 522726355
+Insert 470197102
+Top 
+Insert 981573188
+Top 
+Top 
+Top 
+Top 
+Insert 868990403
+Insert -452647039
+Extract 
+Insert -134991420
+Insert -31387514
+Extract 
+Insert -618738668
+Insert -818228587
+Top 
+Extract 
+Top 
+Top 
+Top 
+Extract 
+Extract 
+Insert 957404181
+Insert -579394278
+Insert 15832159
+Insert 141795941
+Insert 126705644
+Insert 140707250
+Extract 
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Extract 
+Insert -46092754
+Extract 
+Extract 
+Extract 
+Extract 
+Insert 799945263
+Insert -616854016
+Insert 482282490
+Top 
+Extract 
+Insert -969785765
+Insert 600551711
+Insert 845426569
+Insert -845074928
+Extract 
+Insert -389960662
+Insert -364790656
+Insert 947412391
+Extract 
+Extract 
+Top 
+Insert -509821523
+Insert -266435176
+Insert -556229531
+Top 
+Extract 
+Insert -89187311
+Extract 
+Insert 175126487
+Insert -381000430
+Top 
+Extract 
+Insert 538768377
+Top 
+Insert -450240158
+Insert -258706042
+Top 
+Extract 
+Top 
+Extract 
+Top 
+Extract 
+Insert 547127043
+Insert -46430082
+Extract 
+Extract 
+Extract 
+Insert 784656163
+Extract 
+Top 
+Insert -702067044
+Top 
+Top 
+Insert -26284703
+Top 
+Insert 443989204
+Extract 
+Insert 196817882
+Insert -941251651
+Extract 
+Insert 347259664
+Extract 
+Extract 
+Insert 29744525
+Extract 
+Top 
+Insert -878959511
+Insert 592005014
+Insert -4290848
+Insert 353067287
+Insert 567751002
+Top 
+Insert 469170748
+Insert -559052145
+Insert -959991957
+Insert -625138972
+Insert 504705486
+Extract 
+Extract 
+Top 
+Insert 394993864
+Extract 
+Top 
+Insert 292916570
+Extract 
+Insert -536201638
+Extract 
+Insert -187885368
+Top 
+Insert 907368279
+Insert -145503527
+Insert 454197890
+Extract 
+Insert -999305533
+Insert -249509600
+Insert 498760382
+Insert 967196412
+Insert -339054046
+Extract 
+Extract 
+Insert -886834865
+Top 
+Extract 
+Top 
+Insert 614620603
+Insert 6753461
+Insert 624894176
+Top 
+Extract 
+Insert 665331593
+Extract 
+Extract 
+Insert 386852913
+Insert -233703546
+Top 
+Insert 294675445
+Insert -603945577
+Insert -483771891
+Top 
+Insert 63624441
+Insert -89044274
+Extract 
+Top 
+Extract 
+Extract 
+Insert -430511260
+Insert 170311431
+Insert -957431838
+Top 
+Insert -376461708
+Insert 244234387
+Extract 
+Insert 760048557
+Insert -184229026
+Extract 
+Insert -289962291
+Top 
+Top 
+Extract 
+Insert 441867740
+Top 
+Top 
+Insert -461211980
+Insert -241372925
+Insert 512212521
+Insert -107767131
+Insert 745978779
+Insert 518094585
+Insert -120469406
+Top 
+Top 
+Top 
+Top 
+Insert -150349064
+Insert 422501606
+Extract 
+Insert 601775495
+Insert 996601976
+Insert -88884440
+Extract 
+Top 
+Top 
+Insert -331967966
+Top 
+Insert -318318129
+Insert 389841646
+Insert 739073441
+Extract 
+Extract 
+Top 
+Top 
+Insert 716459995
+Extract 
+Extract 
+Insert -83354733
+Top 
+Insert 269914136
+Insert -39380666
+Insert 247167095
+Top 
+Top 
+Extract 
+Insert 993687720
+Insert 648881038
+Top 
+Extract 
+Top 
+Top 
+Extract 
+Insert -502619159
+Insert 596684621
+Insert 957075447
+Insert -519718741
+Insert 748928365
+Insert 174702903
+Extract 
+Top 
+Insert 29727264
+Insert 524933910
+Insert 286141683
+Top 
+Extract 
+Insert 840762374
+Extract 
+Insert -625093066
+Top 
+Top 
+Extract 
+Extract 
+Insert -947309879
+Insert -665378237
+Insert 307258824
+Insert -215160330
+Insert -126460962
+Top 
+Insert -792981540
+Top 
+Insert 930416460
+Top 
+Extract 
+Insert 564583198
+Insert -117643853
+Top 
+Insert -873475236
+Insert 226458094
+Extract 
+Insert -157155195
+Insert -658246533
+Insert 99865745
+Top 
+Insert -79633457
+Insert -605133309
+Insert 177334593
+Top 
+Insert 264279726
+Extract 
+Top 
+Extract 
+Top 
+Top 
+Insert -859956186
+Top 
+Top 
+Insert -966701784
+Extract 
+Top 
+Extract 
+Insert -501801856
+Insert -271654862
+Insert -569758346
+Insert 968009597
+Top 
+Top 
+Extract 
+Extract 
+Top 
+Insert -930960568
+Extract 
+Top 
+Insert -611382791
+Insert -730712514
+Insert -732240582
+Insert 407312028
+Top 
+Insert 201740084
+Top 
+Insert -593748810
+Insert -108991047
+Top 
+Insert 751194350
+Insert -934752110
+Extract 
+Insert -499442694
+Top 
+Extract 
+Top 
+Top 
+Insert -319142531
+Insert -349727948
+Insert 115752791
+Top 
+Top 
+Top 
+Top 
+Extract 
+Insert -291578039
+Top 
+Insert -397926772
+Top 
+Extract 
+Extract 
+Extract 
+Extract 
+Insert -648882651
+Extract 
+Insert -546298388
+Insert -588478060
+Extract 
+Insert -203126025
+Insert -836522533
+Insert 695237227
+Top 
+Extract 
+Insert 160739445
+Insert 7482838
+Insert 780250377
+Top 
+Top 
+Insert 819445238
+Insert -703942354
+Extract 
+Top 
+Extract 
+Extract 
+Top 
+Insert 349939949
+Insert 364462634
+Extract 
+Insert 450226692
+Top 
+Top 
+Top 
+Top 
+Top 
+Insert 20336596
+Top 
+Extract 
+Extract 
+Extract 
+Insert 512087575
+Insert -403331429
+Insert -595343748
+Insert -849129486
+Extract 
+Top 
+Top 
+Extract 
+Insert 325416708
+Top 
+Top 
+Extract 
+Insert -134893348
+Extract 
+Extract 
+Extract 
+Insert -239952855
+Insert 920977437
+Top 
+Extract 
+Insert 185692566
+Top 
+Insert 849800826
+Insert -755965877
+Insert -216862545
+Extract 
+Insert -975633459
+Top 
+Extract 
+Insert 887157401
+Extract 
+Top 
+Insert 625599007
+Extract 
+Top 
+Insert 177613519
+Insert -463275463
+Top 
+Insert 893402120
+Top 
+Insert 441101390
+Extract 
+Top 
+Top 
+Top 
+Top 
+Insert -492517674
+Extract 
+Top 
+Extract 
+Extract 
+Insert -316256795
+Insert -582240699
+Insert 859551179
+Insert -597834411
+Extract 
+Extract 
+Extract 
+Top 
+Insert -739959643
+Extract 
+Top 
+Extract 
+Insert 794141926
+Extract 
+Insert 989085254
+Top 
+Extract 
+Extract 
+Extract 
+Insert -507827113
+Insert 461612313
+Insert 993907465
+Extract 
+Top 
+Extract 
+Insert -150130250
+Insert 973395684
+Top 
+Extract 
+Extract 
+Extract 
+Extract 
+Top 
+Top 
+Extract 
+Extract 
+Extract 
+Top 
+Insert 265271907
+Print 

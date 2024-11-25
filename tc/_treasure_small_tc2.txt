@@ -1,0 +1,21 @@
+1
+Add 1 34 15
+Get
+Add 2 93 32
+Get
+Add 3 87 56
+Get
+Add 4 43 60
+Get
+Add 5 57 61
+Get
+Add 6 71 65
+Get
+Add 7 47 75
+Get
+Add 8 22 78
+Get
+Add 9 71 89
+Get
+Add 10 84 96
+Get
