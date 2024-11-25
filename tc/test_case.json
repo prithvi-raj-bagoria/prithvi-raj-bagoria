@@ -1,0 +1,188 @@
+{
+    "heap": [
+        {
+            "name": "Heap Small Test Case",
+            "input_file": "_heap_small_tc.txt",
+            "output_file": "_heap_small_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap No Init Test Case",
+            "input_file": "_heap_no_init_tc.txt",
+            "output_file": "_heap_no_init_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap Int Test Case",
+            "input_file": "_heap_int_tc.txt",
+            "output_file": "_heap_int_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap Negative Int Test Case",
+            "input_file": "_heap_negint_tc.txt",
+            "output_file": "_heap_negint_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap String Test Case",
+            "input_file": "_heap_string_tc.txt",
+            "output_file": "_heap_string_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap String Sort Test Case",
+            "input_file": "_heap_stringsort_tc.txt",
+            "output_file": "_heap_stringsort_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap String Length Test Case",
+            "input_file": "_heap_stringlength_tc.txt",
+            "output_file": "_heap_stringlength_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap List Length Test Case",
+            "input_file": "_heap_listlength_tc.txt",
+            "output_file": "_heap_listlength_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap List Sum Test Case",
+            "input_file": "_heap_listsum_tc.txt",
+            "output_file": "_heap_listsum_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap List Max Test Case",
+            "input_file": "_heap_listmax_tc.txt",
+            "output_file": "_heap_listmax_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap Distance Test Case",
+            "input_file": "_heap_dist_tc.txt",
+            "output_file": "_heap_dist_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        },
+        {
+            "name": "Heap Distance 2 Test Case",
+            "input_file": "_heap_dist2_tc.txt",
+            "output_file": "_heap_dist2_tc_out.txt",
+            "time_limit": 0.1,
+            "marks": 0.5
+        }
+    ],
+    "treasure": [
+        {
+            "name": "Treasure Small Test Case 1",
+            "input_file": "_treasure_small_tc1.txt",
+            "output_file": "_treasure_small_tc1_out.txt",
+            "time_limit": 1,
+            "marks": 0.2
+        },
+        {
+            "name": "Treasure Small Test Case 2",
+            "input_file": "_treasure_small_tc2.txt",
+            "output_file": "_treasure_small_tc2_out.txt",
+            "time_limit": 1,
+            "marks": 0.2
+        },
+        {
+            "name": "Treasure Moderate Test Case 1",
+            "input_file": "_treasure_moderate_tc1.txt",
+            "output_file": "_treasure_moderate_tc1_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 2",
+            "input_file": "_treasure_moderate_tc2.txt",
+            "output_file": "_treasure_moderate_tc2_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 3",
+            "input_file": "_treasure_moderate_tc3.txt",
+            "output_file": "_treasure_moderate_tc3_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 4",
+            "input_file": "_treasure_moderate_tc4.txt",
+            "output_file": "_treasure_moderate_tc4_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 5",
+            "input_file": "_treasure_moderate_tc5.txt",
+            "output_file": "_treasure_moderate_tc5_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 6",
+            "input_file": "_treasure_moderate_tc6.txt",
+            "output_file": "_treasure_moderate_tc6_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 7",
+            "input_file": "_treasure_moderate_tc7.txt",
+            "output_file": "_treasure_moderate_tc7_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Moderate Test Case 8",
+            "input_file": "_treasure_moderate_tc8.txt",
+            "output_file": "_treasure_moderate_tc8_out.txt",
+            "time_limit": 0.5,
+            "marks": 0.4
+        },
+        {
+            "name": "Treasure Large Test Case 1",
+            "input_file": "_treasure_large_tc1.txt",
+            "output_file": "_treasure_large_tc1_out.txt",
+            "time_limit": 1.5,
+            "marks": 1.8
+        },
+        {
+            "name": "Treasure Large Test Case 2",
+            "input_file": "_treasure_large_tc2.txt",
+            "output_file": "_treasure_large_tc2_out.txt",
+            "time_limit": 1.5,
+            "marks": 1.8
+        },
+        {
+            "name": "Treasure Large M Test Case",
+            "input_file": "_treasure_large_m_tc.txt",
+            "output_file": "_treasure_large_m_tc_out.txt",
+            "time_limit": 1.5,
+            "marks": 1.0
+        },
+        {
+            "name": "Treasure Large M N Test Case",
+            "input_file": "_treasure_large_m_n_tc.txt",
+            "output_file": "_treasure_large_m_n_tc_out.txt",
+            "time_limit": 1.5,
+            "marks": 1.8
+        }
+    ]
+}
